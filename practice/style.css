@@ -1,7 +1,10 @@
 body{
-    background-color: rgb(252, 214, 165);
+    background-color: rgb(255, 148, 9);
     color: rgb(75, 70, 44);
 }
 header{
     background-color: darkcyan;
+}
+td{
+    border: 2px solid black;
 }
